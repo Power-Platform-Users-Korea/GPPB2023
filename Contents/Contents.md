@@ -1,6 +1,6 @@
 # 목차
 
-## 1장 디지털로 협업하기
+## [1장 디지털로 협업하기](https://github.com/Power-Platform-Users-Korea/GPPB2023/blob/main/Body/1st_Chapter/1st_Article.md)
 1. 디지털로 협업하면 뭐가 좋아요?
 2. 왜 마이크로소프트 팀즈에요?
 3. 위키가 뭐고 왜 쓰나요?
